@@ -2,3 +2,4 @@ venv/
 *.pyc
 lightning_logs/
 *.ckpt
+pyopengl/
